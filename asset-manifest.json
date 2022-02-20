@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magnise-test-task/static/css/main.ee5372e2.css",
+    "main.js": "/magnise-test-task/static/js/main.8c6d04d2.js",
+    "index.html": "/magnise-test-task/index.html",
+    "main.ee5372e2.css.map": "/magnise-test-task/static/css/main.ee5372e2.css.map",
+    "main.8c6d04d2.js.map": "/magnise-test-task/static/js/main.8c6d04d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee5372e2.css",
+    "static/js/main.8c6d04d2.js"
+  ]
+}
