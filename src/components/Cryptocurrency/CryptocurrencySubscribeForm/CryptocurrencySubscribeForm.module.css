@@ -1,0 +1,13 @@
+.form {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.input {
+  width: 80%;
+}
+
+.button_span {
+font-size: 10px;
+}
